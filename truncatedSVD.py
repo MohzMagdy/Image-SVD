@@ -17,4 +17,4 @@ def tsvd(M):
     Vr = V[:, :n].copy()
     Sr = diag(Sval_[:n].copy())
     Ur = U[:, :n].copy()
-    return Ur, Sr, Vr
+    return (Ur, Sr, Vr)

@@ -31,5 +31,5 @@ def array_to_img(img, pix_arr):
     
     for col in range(img.size[Y]):
         for row in range(img.size[X]):
-            pixel[row, col] = (pix_arr[R][row, col], pix_arr[G][row, col], pix_arr[B][row, col])
+            pixel[row, col] = (int(pix_arr[R][row, col]), int(pix_arr[G][row, col]), int(pix_arr[B][row, col]))
     return img
