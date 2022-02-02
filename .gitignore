@@ -4,3 +4,4 @@ Exports
 __pycache__/image_matrix.cpython-39.pyc
 Exports/test.png
 Imports/test.png
+__pycache__/manualTruncatingSVD.cpython-39.pyc

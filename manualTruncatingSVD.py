@@ -11,7 +11,7 @@ def mtsvd(M):
     r = len(Sval_)
     for i in range(len(Sval_)):
         n += Sval_[i]
-        if n/Alsum > 0.9:
+        if n/Alsum > 0.8:
             r = i
             break
     Vr = V[:, :r].copy()
