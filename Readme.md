@@ -3,4 +3,4 @@
 ## Linear Algebra Course Project - Fall 2021
 
 ###### Contributers
-<>, <>, <Hesham Elsaman, s-hesham.elsaman@zewailcity.edu.eg>
+<Mohammed Abdelmawla, s-mohammed.abdelmawla@zewailcity.edu.eg>, <Haitham Taha, s-haitham.taha@zewailcity.edu.eg>, <Hesham Elsaman, s-hesham.elsaman@zewailcity.edu.eg>
